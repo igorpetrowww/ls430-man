@@ -1,3 +1,3 @@
-# Мануал Lexus LS430
+# Lexus LS430 Manual Pages
 
-Пометка «2003—» означает рестайлинг.
+«2003.8—» mark means 2003+ restyling cars.
